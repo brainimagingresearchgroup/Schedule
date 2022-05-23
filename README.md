@@ -7,17 +7,17 @@
 |---|-------------|----------|------------------------------------|-----------------------------|
 |13|2022/04/27|허지원 (허지원)| 빈곤의 심리-뇌과학적 이해 | [참고](#2022-04-27) |
 |12|2022/03/30|김현철 (김현철)| Effects of transcranial focused ultrasound pulse duration on stimulation of sheep and human sensorimotor circuitry | [참고](#2022-03-30) |
-|11|2022년 2월 23일|이혜경 (이혜경)| brain effective connectivity 계산 방법들 소개 | [참고](#2022-02-23) |
-|10|2022년 1월 26일|조항준 (조항준)| Two distinct forms of functional lateralization in the human brain | [참고](#2022-01-26) |
-|9|2021년 12월 22일|김건일 (김학진)| Two factors of prosociality in neurocomputational mechanism behind social discounting | [참고](#2021-12-22) | 
-|8|2021년 11월 24일|홍진우 (이종환)| Predicting General Psychopathology Factor (p-factor) Using Functional Connectivity via Scanner-Generalization Neural Networks |  [참고](#2021-11-24) |
-|7|2021년 10월 28일|김상희 (김상희)| Introduction to CBM research in the Affective Cognition Lab | [참고](#2021-10-28) |
-|6|2021년 9월 29일|허지원 (허지원)| The Journey to Research: Psychopathology & Social Neuroscience Lab | [참고](#2021-09-29) | 
-|5|2021년 8월 25일|이혜경 (이혜경)| Understanding of brain spatial maps based on Morse filtration | [참고](#2021-08-25) | 
-|4|2021년 7월 28일|조항준 (조항준)| FMRI for Invasive Studies | [참고](#2021-07-28) |
-|3|2021년 6월 30일|김신아 (김상희)| Neurocognitive Mechanisms Underlying Prosocial Improvement by a Novel Implicit Compassion Training | [참고](#2021-06-30) | 
-|2|2021년 5월 26일|김진희,김대은,김주영 (김학진)| Intrinsic Brain Network Connectivity Predicts Individual Strategic Social Conformity Tendency | |
-|1|2021년 4월 28일|이주현 (이종환)| Deep Learning Discovers Individual Fingerprint in the Resting-state Time-varying Functional Connectivity | [참고](#2021-04-28) |
+|11|2022/02/23|이혜경 (이혜경)| brain effective connectivity 계산 방법들 소개 | [참고](#2022-02-23) |
+|10|2022/01/26|조항준 (조항준)| Two distinct forms of functional lateralization in the human brain | [참고](#2022-01-26) |
+|9|2021/12/22|김건일 (김학진)| Two factors of prosociality in neurocomputational mechanism behind social discounting | [참고](#2021-12-22) | 
+|8|2021/11/24|홍진우 (이종환)| Predicting General Psychopathology Factor (p-factor) Using Functional Connectivity via Scanner-Generalization Neural Networks |  [참고](#2021-11-24) |
+|7|2021/10/28|김상희 (김상희)| Introduction to CBM research in the Affective Cognition Lab | [참고](#2021-10-28) |
+|6|2021/09/29|허지원 (허지원)| The Journey to Research: Psychopathology & Social Neuroscience Lab | [참고](#2021-09-29) | 
+|5|2021/08/25|이혜경 (이혜경)| Understanding of brain spatial maps based on Morse filtration | [참고](#2021-08-25) | 
+|4|2021/07/28|조항준 (조항준)| FMRI for Invasive Studies | [참고](#2021-07-28) |
+|3|2021/06/30|김신아 (김상희)| Neurocognitive Mechanisms Underlying Prosocial Improvement by a Novel Implicit Compassion Training | [참고](#2021-06-30) | 
+|2|2021/05/26|김진희,김대은,김주영 (김학진)| Intrinsic Brain Network Connectivity Predicts Individual Strategic Social Conformity Tendency | |
+|1|2021/04/28|이주현 (이종환)| Deep Learning Discovers Individual Fingerprint in the Resting-state Time-varying Functional Connectivity | [참고](#2021-04-28) |
 
 \
 
