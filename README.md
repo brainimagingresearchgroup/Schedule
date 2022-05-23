@@ -4,7 +4,7 @@
 
 
 |No|날짜|발표자|제목|참고|
-|---|-------------|----------|------------------------------------|-----------------------------|
+|--:|:--:|:--:|:--|:-----------------------------|
 |13|2022/04/27|허지원 (허지원)| 빈곤의 심리-뇌과학적 이해 | [참고](#2022년-04월-27일) |
 |12|2022/03/30|김현철 (김현철)| Effects of transcranial focused ultrasound pulse duration on stimulation of sheep and human sensorimotor circuitry | [참고](#2022-03-30) |
 |11|2022/02/23|이혜경 (이혜경)| brain effective connectivity 계산 방법들 소개 | [참고](#2022-02-23) |
@@ -19,7 +19,7 @@
 |2|2021/05/26|김진희,김대은,김주영 (김학진)| Intrinsic Brain Network Connectivity Predicts Individual Strategic Social Conformity Tendency | |
 |1|2021/04/28|이주현 (이종환)| Deep Learning Discovers Individual Fingerprint in the Resting-state Time-varying Functional Connectivity | [참고](#2021-04-28) |
 
-\
+
 
 
 #2022년 04월 27일
