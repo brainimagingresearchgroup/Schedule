@@ -19,10 +19,10 @@
 |2|2021년 5월 26일|김진희,김대은,김주영 (김학진)| Intrinsic Brain Network Connectivity Predicts Individual Strategic Social Conformity Tendency | |
 |1|2021년 4월 28일|이주현 (이종환)| Deep Learning Discovers Individual Fingerprint in the Resting-state Time-varying Functional Connectivity | [참고](#2021-04-28) |
 
-//
+\
 
 
-#2022년04월27일
+#2022-04-27
 - 초록: 빈곤이 개인의 발달 및 정신건강에 미치는 영향에 대해 개괄하고 추후 지속가능성의 관점에서 연구 및 개입이 필요한 영역에 대해 함께 고민해보고자 합니다.
 
 #2022-03-30
