@@ -5,6 +5,7 @@
 
 |No|날짜|발표자|제목|참고|
 |--:|:--:|:--:|:--|:-----------------------------|
+|18|2022/07/27|김상희 (김상희)|  |  |
 |17|2022/06/29|조항준 (조항준)|  |  |
 |16|2022/04/27|허지원 (허지원)| 빈곤의 심리-뇌과학적 이해 | [참고](#2022년-04월-27일) |
 |15|2022/03/30|김현철 (김현철)| Effects of transcranial focused ultrasound pulse duration on stimulation of sheep and human sensorimotor circuitry | [참고](#2022-03-30) |
