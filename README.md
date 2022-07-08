@@ -6,10 +6,10 @@
 |No|날짜|발표자|제목|참고|
 |--:|:--:|:--:|:--|:-----------------------------|
 |21|2022/10/26|김학진 (김학진)|  |  |
-|20|2022/09/28|이종환 (이종환)|  |  |
-|19|2022/08/31|김상희 (김상희)|  |  |
-|18|2022/07/27|박효진 (버밍험대)|  |  |
-|17|2022/06/29|조항준 (조항준)|  |  |
+|20|2022/09/28|김상희 (김상희)|  |  |
+|19|2022/08/17|신완용 (이종환)|  |  |
+|18|2022/07/27|박효진 (이혜경)|  |  |
+|17|2022/06/29|조항준 (조항준)| Understanding RS-FMRI Preprocessing Pipelines: How to Spoil Your Already-Nice Data | [참고](#2022년-06월-29일) |
 |16|2022/04/27|허지원 (허지원)| 빈곤의 심리-뇌과학적 이해 | [참고](#2022년-04월-27일) |
 |15|2022/03/30|김현철 (김현철)| Effects of transcranial focused ultrasound pulse duration on stimulation of sheep and human sensorimotor circuitry | [참고](#2022-03-30) |
 |14|2022/02/23|이혜경 (이혜경)| brain effective connectivity 계산 방법들 소개 | [참고](#2022-02-23) |
@@ -28,7 +28,8 @@
 |1|2021/01/27|김동율 (고려대)| Machine learning based real-time fMRI neurofeedback with implicit strategy |  |
 
 
-
+#2022년 06월 29일
+- 초록: Many components of resting-state (RS) FMRI show non-random structure that has little to do with neural connectivity but can covary over multiple brain structures. Some of these signals originate in physiology and others are hardware-related. Of these sources, motion has received considerable attention and was found to induce corrupting effects by differentially biasing correlations between regions depending on their distance. Numerous corrective approaches have relied on the identification and censoring of high-motion time points and the use of the brain-wide average time series as a nuisance regressor to which the data are orthogonalized (Global Signal Regression, GSReg). We first replicate the previously reported head-motion bias on correlation coefficients using data generously contributed by Power et al. (2012). We then show that while motion can be the source of artifact in correlations, the distance-dependent bias-taken to be a manifestation of the motion effect on correlation-is exacerbated by the use of GSReg. Put differently, correlation estimates obtained after GSReg are more susceptible to the presence of motion and by extension to the levels of censoring. More generally, the effect of motion on correlation estimates depends on the preprocessing steps leading to the correlation estimate, with certain approaches performing markedly worse than others. For this purpose, we consider various models for RS FMRI preprocessing and show that WMeLOCAL, as subset of the ANATICOR discussed by Jo et al. (2010), denoising approach results in minimal sensitivity to motion and reduces by extension the dependence of correlation results on censoring.
 
 #2022년 04월 27일
 - 초록: 빈곤이 개인의 발달 및 정신건강에 미치는 영향에 대해 개괄하고 추후 지속가능성의 관점에서 연구 및 개입이 필요한 영역에 대해 함께 고민해보고자 합니다.
